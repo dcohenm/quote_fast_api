@@ -19,7 +19,7 @@ This is a FastAPI-based microservice for managing address books. It provides CRU
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/address-book-service.git
+   git clone https://github.com/dcohenm/quote_fast_api.git
    cd address-book-service
    ```
 
